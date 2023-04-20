@@ -102,7 +102,9 @@
 
 
 <div align="center">
+  
 [![Star History Chart](https://api.star-history.com/svg?repos=vuln000/Sec-Yourself&type=Date)](https://star-history.com/#vuln000/Sec-Yourself&Date)
+  
 </div>
 
 
