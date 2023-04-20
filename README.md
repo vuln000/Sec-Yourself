@@ -100,6 +100,7 @@
 [30]: ./涉及个人信息保护法的处罚案例/罚款-上海-法人代表-处理政务类数据时违规操作，且未采取相应的技术措施和其他必要措施保障数据安全，导致数据存在泄露风险.md
 
 
-## Star History
-
+<div align="center">
 [![Star History Chart](https://api.star-history.com/svg?repos=vuln000/Sec-Yourself&type=Date)](https://star-history.com/#vuln000/Sec-Yourself&Date)
+</div>
+
